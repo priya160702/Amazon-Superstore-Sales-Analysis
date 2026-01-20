@@ -54,17 +54,17 @@ Growth Initiatives: Use targeted marketing to address the revenue stagnation obs
 
 1. Clone the repository:
 
-'''Bash
+```Bash
 
 git clone https://github.com/your-username/superstore-analysis.git
 cd superstore-analysis
 Ensure you have the required libraries installed:
 
-'''Bash
+```Bash
 
 pip install pandas numpy matplotlib seaborn notebook
 Open the analysis: Launch the notebook to view the interactive visualizations:
 
-'''Bash
+```Bash
 
 jupyter notebook superstore_analysis.ipynb
