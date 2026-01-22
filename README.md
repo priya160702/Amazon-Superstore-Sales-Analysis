@@ -8,7 +8,7 @@ The challenge was to transform a complex, multi-dimensional dataset into a strat
 ### Approach and Solution
 To address these challenges, a detailed analysis was performed across several key dimensions:
 
-1. Overall Performance Metrics
+### Overall Performance Metrics
 We calculated core KPIs to benchmark organizational health:
 
 Total Revenue: $605.2 Million
@@ -19,7 +19,8 @@ Units Sold: 1.6 Million
 
 Avg. Shipment Time: 23.55 days (Identified as a key area for operational improvement).
 
-2. Regional & Channel Analysis
+Regional & Channel Analysis
+
 High-Potential Markets: North America led in profit ($225.41M), followed closely by India ($190.92M).
 
 Sales Channels: Offline sales dominated the landscape with $433.65 Million, highlighting the continued importance of physical retail locations.
