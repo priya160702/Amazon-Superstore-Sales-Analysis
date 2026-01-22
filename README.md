@@ -40,15 +40,15 @@ Yearly analysis showed significant growth in 2011, followed by a decline (2012â€
 ### Business Recommendations
 Based on the data insights, the following strategic actions are advised:
 
-Market Expansion: Increase investment in North America and India to solidify market leadership.
+1. Market Expansion: Increase investment in North America and India to solidify market leadership.
 
-Logistics Optimization: Reduce delivery times to protect revenue and boost customer satisfaction.
+2.Logistics Optimization: Reduce delivery times to protect revenue and boost customer satisfaction.
 
-Inventory Prioritization: Focus inventory and promotions on high-margin categories like Cosmetics and Office Supplies.
+3. Inventory Prioritization: Focus inventory and promotions on high-margin categories like Cosmetics and Office Supplies.
 
-Cost Management: Implement stricter cost-control measures for the Clothes category to improve margins.
+4. Cost Management: Implement stricter cost-control measures for the Clothes category to improve margins.
 
-Growth Initiatives: Use targeted marketing to address the revenue stagnation observed since 2015.
+5. Growth Initiatives: Use targeted marketing to address the revenue stagnation observed since 2015.
 
 ### How to Run
 
@@ -58,13 +58,17 @@ Growth Initiatives: Use targeted marketing to address the revenue stagnation obs
 
 git clone https://github.com/your-username/superstore-analysis.git
 cd superstore-analysis
-Ensure you have the required libraries installed:
+```
+
+2. Ensure you have the required libraries installed:
 
 ```Bash
 
 pip install pandas numpy matplotlib seaborn notebook
-Open the analysis: Launch the notebook to view the interactive visualizations:
+```
+
+3. Open the analysis: Launch the notebook to view the interactive visualizations:
 
 ```Bash
-
 jupyter notebook superstore_analysis.ipynb
+```
