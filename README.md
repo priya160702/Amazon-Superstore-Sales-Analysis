@@ -26,14 +26,20 @@ High-Potential Markets: North America led in profit ($225.41M), followed closely
 Sales Channels: Offline sales dominated the landscape with $433.65 Million, highlighting the continued importance of physical retail locations.
 
 Shipment Impact
+
 Analysis revealed a direct correlation between logistics and the bottom line: Revenue declined as shipment days increased, proving that delivery efficiency is a financial driver.
 
 Category-Level Insights
+
 Cosmetics: The highest profit driver ($724.38M revenue).
 
-Office Supplies: A strong, consistent contributor to profit ($530.62M revenue).
+Office Supplies: 
 
-Clothes: Generated high revenue but showed lower profit margins, indicating a need for cost optimization.
+A strong, consistent contributor to profit ($530.62M revenue).
+
+Clothes: 
+
+Generated high revenue but showed lower profit margins, indicating a need for cost optimization.
 
 Temporal Trends
 
