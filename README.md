@@ -35,7 +35,8 @@ Office Supplies: A strong, consistent contributor to profit ($530.62M revenue).
 
 Clothes: Generated high revenue but showed lower profit margins, indicating a need for cost optimization.
 
-5. Temporal Trends
+Temporal Trends
+
 Yearly analysis showed significant growth in 2011, followed by a decline (2012–2015) and stagnation (2015–2017), signaling a need for new strategic interventions.
 
 ### Business Recommendations
